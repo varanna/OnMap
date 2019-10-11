@@ -36,4 +36,4 @@ This app uses the following APIs:
 | Framework | Description |
 | --- | --- |
 | [Facebook API](https://developers.facebook.com/docs/facebook-login/ios) | It is used to login to FB. |
-| [Parse API](http://blog.parseplatform.org/ | Get student locations. |
+| [Parse API](http://blog.parseplatform.org/) | Get student locations. |
